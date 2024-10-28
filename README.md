@@ -1,0 +1,2 @@
+# mindmapr
+simple js page
